@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3611458, 2018-07-18T03:25:35-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: OpinionProExtraCondensed-Light by Mint Type
+ * URL: https://www.myfonts.com/fonts/konstantynov/opinion-pro/extra-condensed-light/
+ * Copyright: Copyright (c) 2017 by Oleh Lishchuk. All rights reserved.
+ * Licensed pageviews: 500,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3611458
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/371b42");
+
+  
+@font-face {font-family: 'OpinionProExtraCondensed-Light';src: url('../fonts/371B42_0_0.eot');src: url('../fonts/371B42_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/371B42_0_0.woff2') format('woff2'),url('../fonts/371B42_0_0.woff') format('woff'),url('../fonts/371B42_0_0.ttf') format('truetype');}
+ 
